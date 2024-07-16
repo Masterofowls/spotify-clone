@@ -3,7 +3,8 @@
 
 import Header from "@/components/Header";
 import ListItem from "@/components/ListItem";
-import getSongs from "@/actions/getSongs"
+import getSongs from "@/actions/getSongs";
+import PageContent from "./components/PageContent";
 
 export const revalidate = 0;        //* no page cash = up to date
 
@@ -53,7 +54,7 @@ export default  async function Home() {
           </h1>
         </div>
           <div>
-            <PageContent/>
+            <PageContent songs = {songs} />
           </div>
       </div>
     </div>
