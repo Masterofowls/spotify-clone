@@ -13,9 +13,7 @@ node_modules/
 # Testing
 /coverage
 
-# Next.js build output
-/.next/
-/out/
+
 
 # Production build output
 /build
