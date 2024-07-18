@@ -1,5 +1,1 @@
-{
-  "/(site)/page": "app/(site)/page.js",
-  "/liked/page": "app/liked/page.js",
-  "/search/page": "app/search/page.js"
-}
+{}
