@@ -1,6 +1,6 @@
 # Sensitive files
-.next/
-.vscode/
+.next
+.vscode
 password.txt
 
 # Node.js modules
