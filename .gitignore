@@ -1,10 +1,7 @@
 # Sensitive files
+.next/
+.vscode/
 password.txt
-
-
-
-
-
 
 # Node.js modules
 node_modules/
@@ -15,12 +12,9 @@ node_modules/
 .pnp.js
 .yarn/install-state.gz
 
-
-
 # Next.js build output
 /.next/
 /out/
-
 
 # Production build output
 /build
@@ -39,7 +33,3 @@ yarn-error.log*
 
 # Vercel configuration
 .vercel
-
-
-
-
